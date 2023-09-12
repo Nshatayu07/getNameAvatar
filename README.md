@@ -5,4 +5,4 @@ API from - https://joesch.moe/
 API used - https://joesch.moe/api/v1/random
 
 
-visit website - https://nshatayu07.github.io/getNameAvatar/
+Visit Website - https://nshatayu07.github.io/personalityAvatar/
