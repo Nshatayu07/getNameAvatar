@@ -14,7 +14,15 @@ en.addEventListener('keyup', (e)=>{
         console.log(e.gname);
         getName();
     }
-})*/    
+})*/
+
+let en = document.querySelector('input[name = "name"]');
+en.addEventListener('keyup', (e)=>{
+    if(e.keyCode === 13){
+        // console.log(e.gname);
+        getName();
+    }
+})
 
 var btn = document.querySelector("button");
 btn.addEventListener("click", getName);
